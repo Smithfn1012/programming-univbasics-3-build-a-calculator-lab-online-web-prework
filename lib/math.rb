@@ -23,7 +23,7 @@ result = num1%num2
 return result
 end
 
-def square_root(num)
+def square_root(9)
 Math.sqrt = num**
 return result
 end
