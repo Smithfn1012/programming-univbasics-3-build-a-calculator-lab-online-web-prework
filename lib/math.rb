@@ -25,5 +25,5 @@ end
 
 def square_root(9)
 Math.sqrt = num**
-return result
+return Math.sqrt
 end
