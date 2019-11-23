@@ -24,5 +24,6 @@ return result
 end
 
 def square_root(num)
-Math.sqrt = num**
+num = num**
+return num
 end
